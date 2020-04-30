@@ -1,0 +1,5 @@
+https://www.cs.princeton.edu/courses/archive/fall00/cs426/papers/beier92.pdf
+https://stackoverflow.com/questions/28327020/opencv-detect-mouse-position-clicking-over-a-picture
+https://www.life2coding.com/implement-mouse-callback-events-images-using-opencv-python/
+https://www.learnopencv.com/face-morph-using-opencv-cpp-python/
+https://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/

@@ -1,0 +1,6 @@
+Step 1- Open jupyter notebook
+Step 2- Run Code Main.ipynb
+Step 3- Select points you want to select as feature points
+Step 4- Wait and see the results.
+
+		******** HAPPY MORPHING ********
